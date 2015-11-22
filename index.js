@@ -1,4 +1,4 @@
-function TileUtil () {
+function TileToGeo () {
 
     var tu = {};
 
@@ -24,5 +24,5 @@ function TileUtil () {
 };
 
 if(typeof module != 'undefined'){
-    module.exports = TileUtil;
+    module.exports = TileToGeo;
 }

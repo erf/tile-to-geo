@@ -1,10 +1,10 @@
 {
-    "name": "tile-util",
+    "name": "tile-to-geo",
     "version": "1.0.0",
-    "description": "Geo utils for spherical mercator.",
+    "description": "Transform tile x,y to lat,lng and back for spherical mercator.",
     "repository": {
         "type": "git",
-        "url": "https://github.com/erf/tile-util.git"
+        "url": "https://github.com/erf/tile-to-geo.git"
     },
     "main": "index.js",
     "scripts": {

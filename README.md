@@ -1,4 +1,4 @@
-# tile-util
+# tile-to-geo
 Geo utils for spherical mercator 
 
 # Tests

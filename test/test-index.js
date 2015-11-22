@@ -1,7 +1,7 @@
 var assert = require('assert');
 var tu = require('../index')();
 
-describe('tile-utils', function(){
+describe('tile-to-geo', function(){
     it('lat lng to x y', function(){
 
         assert(tu.lng_x(45, 1), 1)
