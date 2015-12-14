@@ -1,5 +1,5 @@
 # tile-to-geo
-Geo utils for spherical mercator 
+Transform lat,zoom and lng,zoom to tile coordinates and back for spherical mercator projection.
 
 # Tests
 ```npm install ```.
