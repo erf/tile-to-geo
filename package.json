@@ -1,6 +1,6 @@
 {
   "name": "tile-to-geo",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Transform tile x,y to lat,lng and back for spherical mercator.",
   "repository": {
     "type": "git",
